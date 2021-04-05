@@ -1,7 +1,7 @@
-👋 Hi, I’m @TasogarMH
-I’m interested in coding and gaming.
-I’m currently learning computer science at Florida International University.
-I’m looking to collaborate on interesting coding projects.
+👋 Hi, I’m @TasogarMH<br />
+I’m interested in coding and gaming.<br />
+I’m currently learning computer science at Florida International University.<br />
+I’m looking to collaborate on interesting coding projects.<br />
 How to reach me ...
 
 <!---
